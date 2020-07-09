@@ -1,1 +1,1 @@
-var link = 'https://line.me/ti/p/Zk_KtC8sLs'
+var link = 'https://line.me/ti/p/zXeZJi40a7'
